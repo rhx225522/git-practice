@@ -3,3 +3,5 @@ Day2：init / status / add / commit / log
 commit 存本地，push 才上传云端
 git add 把文件放进暂存区
 git commit 把暂存区固化进历史
+git log 查看提交历史
+提交说明要写清楚改了什么
