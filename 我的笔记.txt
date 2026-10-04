@@ -1,0 +1,3 @@
+2026-10-04 Git 学习笔记
+Day2：init / status / add / commit / log
+commit 存本地，push 才上传云端
