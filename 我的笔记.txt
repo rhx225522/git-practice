@@ -5,3 +5,4 @@ git add 把文件放进暂存区
 git commit 把暂存区固化进历史
 git log 查看提交历史
 提交说明要写清楚改了什么
+git switch -c 创建并切换分支
